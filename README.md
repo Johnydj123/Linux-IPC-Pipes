@@ -88,7 +88,7 @@ printf("THE RESULTS OF CLIENTS ARE ...... \n"); write(1,buff,n);
 
 
 ## OUTPUT
-![WhatsApp Image 2024-04-14 at 22 53 57_94911ef4](https://github.com/Johnydj123/Linux-IPC-Pipes/assets/145953459/c1b565af-ddf7-415e-81a5-92998ecfde30)
+![alt text](<../Screenshot 2024-05-09 212123.png>)
 
 
 
@@ -113,7 +113,7 @@ exit(EXIT_SUCCESS);
 
 
 ## OUTPUT
-![WhatsApp Image 2024-04-14 at 22 54 54_d68bf203](https://github.com/Johnydj123/Linux-IPC-Pipes/assets/145953459/b2da7d32-de70-49e6-9613-21c9fc1334ed)
+![alt text](<../Screenshot 2024-05-09 212132.png>)
 
 
 # RESULT:
